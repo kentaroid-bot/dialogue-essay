@@ -1,7 +1,7 @@
 # Geminiハイブリッド案（C）の確認
 
 記録日：2026-09-13。
-提供元：ユーザー指定 /Users/sukezo/prompt-template-hybrid.md。
+提供元：ユーザー提供の `prompt-template-hybrid.md`。
 原文：[prompt-c-gemini-original.md](prompt-c-gemini-original.md)。改変せず保存。
 
 ## Gemini案の構成
